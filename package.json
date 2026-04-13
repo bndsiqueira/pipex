@@ -12,6 +12,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=22"
+  },
   "type": "module",
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.4",
